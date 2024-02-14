@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,TNT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/470
 #EXTINF:-1,MEGAPIX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/449
+#EXTINF:-1,TNT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/470
 #EXTINF:-1,CINEMAX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/428
 #EXTINF:-1,TELECINE ACTION HD
@@ -20,8 +20,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/810
 http://voz.one:80/alexfnt/vTFBGKdUYq/813
 #EXTINF:-1,TLC (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13933
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes", DarkFlix HD
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/start-1.png" group-title="WebTV", Start - WebTV
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="WebTV", XTreme
@@ -32,10 +30,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Variedades", TV MAX
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="Música", 4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="Jornalismo", Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retroplus.png" group-title="Música", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -85,6 +81,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/685
 #EXTINF:-1,CNN INTERNACIONAL
 http://voz.one:80/alexfnt/vTFBGKdUYq/130690
 #EXTINF:-1,COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes", DarkFlix HD
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 http://voz.one:80/alexfnt/vTFBGKdUYq/758
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/5
@@ -418,8 +416,10 @@ http://203.162.235.41:12091
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="General",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="Jornalismo", Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="Música", 4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 
 
