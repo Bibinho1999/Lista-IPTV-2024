@@ -85,9 +85,9 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/433
 http://voz.one:80/alexfnt/vTFBGKdUYq/685
 #EXTINF:-1,CNN INTERNACIONAL
 http://voz.one:80/alexfnt/vTFBGKdUYq/130690
-#EXTINF:-1,COMEDY CENTRAL HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes", DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/758
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/5
