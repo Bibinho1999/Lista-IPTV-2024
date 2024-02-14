@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1000px-Bloomberg_logo.svg.png" group-title="CANAIS NOTICIAS",Bloomberg HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1211.m3u8
 
 #EXTINF:-1,TNT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/470
