@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,By. @FLyr00
-https://www.youtube.com/@FLyr00
-#EXTINF:-1,Uso Gratuito!
-1
-#EXTINF:-1,Não Venda ou Alugue!
-1
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",Kpop TV Play
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
