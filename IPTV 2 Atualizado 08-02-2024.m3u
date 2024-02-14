@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1,TNT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/470
 #EXTINF:-1,MEGAPIX HD
@@ -268,10 +266,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/479
 http://voz.one:80/alexfnt/vTFBGKdUYq/657
 #EXTINF:-1,ZOOMOO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/660
-
 #EXTINF:-1,----------------------------------------SÉRIES 24 HORAS----------------------------------------:
 1
-
 #EXTINF:-1,[24H] Alladin
 http://voz.one:80/alexfnt/vTFBGKdUYq/95718
 #EXTINF:-1,[24H] As Meninas Super poderosas
@@ -358,10 +354,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95778
 http://voz.one:80/alexfnt/vTFBGKdUYq/95705
 #EXTINF:-1,[24H] X-MEN
 http://voz.one:80/alexfnt/vTFBGKdUYq/95780
-
 #EXTINF:-1,----------------------------------------RáDIOS----------------------------------------:
 1
-
 #EXTINF:-1,RJ - BeatPlay FM
 http://voz.one:80/alexfnt/vTFBGKdUYq/34022
 #EXTINF:-1,RJ - JB FM 99.9
@@ -386,10 +380,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/34030
 http://voz.one:80/alexfnt/vTFBGKdUYq/34031
 #EXTINF:-1,JHero Radio 
 https://stm1.radiojhero.com:18008/
-
 #EXTINF:-1,----------------------------------------BONUS----------------------------------------:
 1
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",Kpop TV Play
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Animation",Animax JP
