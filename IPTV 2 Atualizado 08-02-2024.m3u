@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1,MEGAPIX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/449
 #EXTINF:-1,TNT HD
@@ -20,6 +21,14 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/810
 http://voz.one:80/alexfnt/vTFBGKdUYq/813
 #EXTINF:-1,TLC (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13933
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Variedades", TV MAX
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1,HBO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/601
+#EXTINF:-1,HBO 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/595
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/start-1.png" group-title="WebTV", Start - WebTV
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="WebTV", XTreme
@@ -28,16 +37,8 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="WebTV",Vintage TV
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Variedades", TV MAX
-https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retroplus.png" group-title="Música", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1,HBO 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/595
-#EXTINF:-1,HBO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/601
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/otaku-1.jpg" group-title="WebTV", Otaku Sign TV
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png" group-title="Variedades",PlayTV
@@ -50,6 +51,8 @@ https://stream.ichibantv.com:3522/hybrid/play.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="WebTV",Loading - Web TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+
 #EXTINF:-1,A&E HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/419
 #EXTINF:-1,AMC HD
@@ -60,6 +63,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/423
 http://voz.one:80/alexfnt/vTFBGKdUYq/2
 #EXTINF:-1,ARTE 1 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/788
+#EXTINF:-1,ARTE 1²
+http://voz.one:80/alexfnt/vTFBGKdUYq/65372
 #EXTINF:-1,AXN HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/425
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="CANAIS INFANTIL",Boomerang
@@ -104,6 +109,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/23
 http://voz.one:80/alexfnt/vTFBGKdUYq/631
 #EXTINF:-1,E! HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/763
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="CANAIS ESPORTE",ESPN  HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1405.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/367
 #EXTINF:-1,FILM & ART HD
@@ -162,10 +169,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/650
 http://voz.one:80/alexfnt/vTFBGKdUYq/452
 #EXTINF:-1,Paramount+ 1 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/84448
-#EXTINF:-1,PREMIERE 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/702
-#EXTINF:-1,PREMIERE 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/705
 #EXTINF:-1,PREMIERE CLUBES HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/719
 #EXTINF:-1,PRIME BOX BRASIL HD
@@ -180,9 +183,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/65294
 http://voz.one:80/alexfnt/vTFBGKdUYq/45915
 #EXTINF:-1,REDE TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/259
-
-#EXTINF:-1,ARTE 1²
-http://voz.one:80/alexfnt/vTFBGKdUYq/65372
 #EXTINF:-1,SBT SP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/311
 #EXTINF:-1,SKY PLAY 01
