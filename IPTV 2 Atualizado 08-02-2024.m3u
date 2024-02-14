@@ -409,6 +409,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 tvg-id="PokemonKidsTVJapanese.jp" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="Animation;Kids",Pokemon Kids TV Japanese
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://i.imgur.com/MRSlSvm.png" group-title="",Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
 
 
 
