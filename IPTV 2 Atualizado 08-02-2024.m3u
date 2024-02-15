@@ -111,7 +111,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/631
 http://voz.one:80/alexfnt/vTFBGKdUYq/763
 
 #EXTINF:-1,ESPN HD
-https://cirion-aju.ittv.com.br/ESPN_DRM/index.mpd
+blob:https://link.encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.link/03ef48bb-ecda-4423-b194-33e11ec249a9
+
 
 #EXTINF:-1,ESPN 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/367
@@ -234,6 +235,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/466
 http://voz.one:80/alexfnt/vTFBGKdUYq/473
 #EXTINF:-1,TOONCAST HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/664
+#EXTINF:-1, TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1,TRAVEL BOX BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45881
 #EXTINF:-1,TRU TV HD
