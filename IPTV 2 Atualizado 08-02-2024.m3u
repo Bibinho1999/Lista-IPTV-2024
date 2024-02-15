@@ -241,6 +241,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/664
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1, Tv Clássicos do Cinema
 https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
+#EXTINF:-1,Top Tv Ao Vivo
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRAVEL BOX BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45881
 #EXTINF:-1,TRU TV HD
@@ -271,6 +273,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/786
 http://voz.one:80/alexfnt/vTFBGKdUYq/479
 #EXTINF:-1,WOOHOO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/657
+#EXTINF:-1,WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w956359683.m3u8
 #EXTINF:-1,ZOOMOO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/660
 #EXTINF:-1,----------------------------------------SÉRIES 24 HORAS----------------------------------------:
@@ -391,6 +395,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/34031
 https://stm1.radiojhero.com:18008/
 #EXTINF:-1,----------------------------------------BONUS----------------------------------------:
 1
+#EXTINF:-1, Lofi Girl
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707980993/ei/YWTNZbChOp7z1sQPyNun2AE/ip/179.156.153.34/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOHwkCZe2OHlc_IZ76uuP3xCF9hXSPXu7igQK2wzTNz8AiAds1byKwRpcrjB0PuqDKIEfkMybjVZ2m3gzg8x1J1eUg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",Kpop TV Play
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Animation",Animax JP
