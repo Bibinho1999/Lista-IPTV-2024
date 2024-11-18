@@ -1,20 +1,8 @@
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
-
-############################################################################ Informações 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",18/02/24
-http://manoplus.ddns.net/mano.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3z7lsrK.png" group-title="PIX/DOAÇÃO",manotv29@gmail.com
-http://manoplus.ddns.net/mano.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST D 12horas",Whats 75991634025
-http://manoplus.ddns.net/mano.mp4
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RPC TV Maringa HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2348
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Otaku sing
+https://stmv1.srvif.com/otaku/otaku/chunklist_w1948946720.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Anhanguera HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2448
